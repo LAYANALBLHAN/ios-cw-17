@@ -28,33 +28,33 @@ struct ContentView: View {
                 VStack{
         // الحالة الأولى
                 // الاسم
-               Text("")
+               Text("علي")
 // المنطقة
-                Text("")
+                Text("النزهه")
                     // عدد الجرعات
-               Text("")
+                    Text("2")
 
                 Divider()
                 }
                 VStack{
         // الحالة الثانية
                 // الاسم
-               Text("")
+               Text("ليان")
                 // المنطقة
-               Text("")
+               Text("الخالديه )
     // عدد الجرعات
-               Text("")
+               Text("2")
 
                 Divider()
                 }
                 VStack{
               // الحالة الثالثة
                       // الاسم
-                     Text("")
+                     Text("نور ")
                       // المنطقة
-                     Text("")
+                     Text("صباح السالم")
           // عدد الجرعات
-                     Text("")
+                     Text("2")
                 }
                 Spacer()
                 HStack{
